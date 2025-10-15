@@ -1,7 +1,7 @@
 # 🧠 Explainable Toxic Comment Classification using DistilBERT
 
 This project implements an **explainable multi-label toxic comment classification system** using the **DistilBERT** transformer model.  
-It is based on the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) dataset and predicts six forms of online toxicity while providing interpretable visual explanations using **Captum Integrated Gradients (IG)**.
+It is based on the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge) dataset and predicts six forms of online toxicity while providing interpretable visual explanations using **Captum Integrated Gradients (IG)**.
 
 ---
 
@@ -12,7 +12,6 @@ It is based on the [Jigsaw Toxic Comment Classification Challenge](https://www.k
 ✅ **Explainable AI (XAI)** with Captum to visualize token-level attributions  
 ✅ **Gradio-based UI** for real-time text classification and interpretation  
 ✅ Clean, reproducible **end-to-end Kaggle notebook**  
-✅ Ready for deployment to **Hugging Face Spaces**  
 
 ---
 
@@ -24,7 +23,6 @@ Toxic-Comment-Classification/
 ├── README.md                                   # Project overview and documentation
 ├── requirements.txt                            # Python dependencies
 ├── Toxic_Comment_Classification_full.ipynb     # End-to-end Kaggle notebook
-│
 ├── demo/
 │   └── app.py                                  # Gradio UI for local demo or Spaces
 │
@@ -37,7 +35,7 @@ Toxic-Comment-Classification/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Toxic-Comment-Classification.git
+git clone https://github.com/yaekobB/Toxic-Comment-Classification.git
 cd Toxic-Comment-Classification
 ```
 
