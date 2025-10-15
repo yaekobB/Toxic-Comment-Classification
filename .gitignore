@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+.env/
+*.egg-info/
+
+# Artifacts (skip large weights)
+artifacts/best/*.bin
+artifacts/best/*.safetensors
+artifacts/best/pytorch_model.bin
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

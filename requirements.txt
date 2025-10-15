@@ -1,0 +1,18 @@
+
+---
+
+## 📦 **requirements.txt (final version)**
+```txt
+torch
+transformers
+datasets
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+captum
+gradio
+safetensors
+ftfy
+iterative-stratification
