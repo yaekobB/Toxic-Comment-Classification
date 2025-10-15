@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Toxic Comment Classification Banner" width="100%">
 </p>
 
-# 🧠 Explainable Toxic Comment Classification using DistilBERT
+# Explainable Toxic Comment Classification using DistilBERT
 
 This project implements an **explainable multi-label toxic comment classification system** using the **DistilBERT** transformer model.  
 It is based on the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge) dataset and predicts six forms of online toxicity while providing interpretable visual explanations using **Captum Integrated Gradients (IG)**.
