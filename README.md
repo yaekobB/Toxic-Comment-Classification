@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Toxic Comment Classification Banner" width="100%">
+</p>
+
 # 🧠 Explainable Toxic Comment Classification using DistilBERT
 
 This project implements an **explainable multi-label toxic comment classification system** using the **DistilBERT** transformer model.  
