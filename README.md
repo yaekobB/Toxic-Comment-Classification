@@ -77,7 +77,7 @@ artifacts/best/
 
 ## 🔍 Explainability Example
 
-![Explainability Heatmap](docs/explainability_heatmap.png)
+Explainability Heatmap
 
 **Color legend:**  
 🔴 *Red* — Words that **increase** the toxicity score  
@@ -107,16 +107,9 @@ You can try the interactive web app on Hugging Face Spaces:
 
 ---
 
-## 🧑‍💻 Author
-
-**Brhane Teamrat Gidey (Yaekob Beyene)**  
-M.Sc. in Artificial Intelligence & Computer Science  
-University of Calabria, Italy 🇮🇹  
-📧 [your_email@example.com](mailto:your_email@example.com)
-
 ---
 
 ## 🪪 License
 
-MIT License © 2025 Brhane Teamrat Gidey  
+MIT License © 2025 
 You are free to use, modify, and distribute this project with proper attribution.
