@@ -8,6 +8,12 @@ This project implements an **explainable multi-label toxic comment classificatio
 It is based on the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge) dataset and predicts six forms of online toxicity while providing interpretable visual explanations using **Captum Integrated Gradients (IG)**.
 
 ---
+## 🧪 Try It Live
+
+You can try the interactive web app on Hugging Face Spaces:  
+👉 [https://huggingface.co/spaces/YaekobB/Toxic-Comment-Classification](https://huggingface.co/spaces/YaekobB/Toxic-Comment-Classification)
+
+---
 
 ## 🚀 Key Highlights
 
@@ -88,13 +94,6 @@ Explainability Heatmap
 🔵 *Blue* — Words that **decrease** the toxicity score  
 
 Each word’s intensity reflects its contribution to the final prediction.
-
----
-
-## 🧪 Try It Live
-
-You can try the interactive web app on Hugging Face Spaces:  
-👉 [https://huggingface.co/spaces/<your-username>/toxic-comment-classifier](https://huggingface.co/spaces/<your-username>/toxic-comment-classifier)
 
 ---
 
