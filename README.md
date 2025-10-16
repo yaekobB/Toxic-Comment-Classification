@@ -61,7 +61,7 @@ Access the local app at → [http://127.0.0.1:7860](http://127.0.0.1:7860)
 
 The fine-tuned model is available on Hugging Face Hub:
 
-👉 [https://huggingface.co/<your-username>/toxic-comment-distilbert](https://huggingface.co/<your-username>/toxic-comment-distilbert)
+👉 [https://huggingface.co/spaces/YaekobB/Toxic-Comment-Classification](https://huggingface.co/spaces/YaekobB/Toxic-Comment-Classification)
 
 To use the model locally, download the weights and place them inside:
 ```
